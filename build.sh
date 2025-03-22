@@ -103,5 +103,3 @@ sudo updatedb  # Update the locate database
 
 echo "Workstation setup complete!"
 echo "Reboot your system to apply changes."
-
-   
